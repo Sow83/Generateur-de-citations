@@ -1,1 +1,1 @@
-# Générateur de citations et de proverbes
+# Génère des citations et des proverbes d'une manière aléatoire
